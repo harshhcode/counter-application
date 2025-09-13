@@ -1,6 +1,11 @@
+## Deployment Links
+
+- **Netlify**:(https://asssmnt1.netlify.app/)  
+- **GitHub Repo**: https://github.com/harshhcode/counter-application 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
